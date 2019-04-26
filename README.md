@@ -13,3 +13,4 @@ Implemented function to calculate inclination angles from instantaneous accelera
 Calibration and analog-digital conversion of temperatures from a LM35 Texas Instruments temperature sensor. 
 Display temperature values as color from a custom colormap.  
 
+
