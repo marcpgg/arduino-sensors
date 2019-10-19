@@ -1,7 +1,7 @@
 
 # Basic Arduino sensor projects
 
-
+Retreival of sensor data (Temperature, Pressure, Inclination) through bluetooth.
 ## Accelerometer for inclination Sensing
 
 Calibration and acceleration sensing using a  LIS344AL 3-axis Accelerometer. 
